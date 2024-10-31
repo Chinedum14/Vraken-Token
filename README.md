@@ -1,6 +1,6 @@
 # Vraken Token (VRK)
 
-**Vraken (VRK)** is an advanced ERC-20token designed for efficiency, security, and flexibility in the digital economy. Built on Ethereum, Vraken combines foundational token functionalities with key enhancements to meet diverse use cases, from decentralized finance (DeFi) to gamified applications.
+**Vraken (VRK)** is an advanced ERC-20 token designed for efficiency, security, and flexibility in the digital economy. Built on Ethereum, Vraken combines foundational token functionalities with key enhancements to meet diverse use cases, from decentralized finance (DeFi) to gamified applications.
 
 # Key Features
 
@@ -14,7 +14,7 @@
    Each transaction carries a small fee, currently set at 1%, which can be updated by the owner up to a maximum of 50%. The fee is sent to a specified feeRecipient address, potentially enabling rewards or supporting the projects ecosystem.
 
 4. **Burnable Tokens**  
-   Holders can choose to burn VRK tokens to permanently reduce the circulation supply, providing a deflationary mechanism
+   Holders can choose to burn VRK tokens to permanently reduce the circulation supply, providing a deflationary mechanism.
 
 5. **Vesting Schedule**  
    Vraken supports customizable vesting schedules, allowing for controlled release of tokens over time. This feature is especially useful for projects wanting to align incentives for investors, team members, or partners.
@@ -36,4 +36,4 @@ Vraken is versatile and ready for various applications, such as:
 
 # Summary
 
-Vraken is a secure, robust, and multi-functional token suitable for projects looking to create a sustainable and scalable ecosystem
+Vraken is a secure, robust, and multi-functional token suitable for projects looking to create a sustainable and scalable ecosystem.
