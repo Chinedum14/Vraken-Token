@@ -1,0 +1,6 @@
+.exit
+console.log(balance.toString());
+console.log(balance.toSpring());
+const balance = await myToken.balanceOf("0x5aE897eC7a7f2022235251790605Ea888f82D55F");
+const myToken = MyToken.attach("0x5aE897eC7a7f2022235251790605Ea888f82D55F");
+const MyToken = await ethers.getContractFactory("MyVoken");
